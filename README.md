@@ -4,6 +4,8 @@
 
 I'm Vince, a Christian, Husband, Father, and Software Developer from Columbus, OH.
 
+[![/dev/null activity](https://dev-null.sh/@vmitchell85/graph.svg)](https://dev-null.sh/@vmitchell85)
+
 ## Preferred Tech Stack
 
 - [Laravel](https://laravel.com/)
